@@ -44,9 +44,9 @@ openkoutsi is split across a few repositories:
 
 Found a bug or have an idea? Please open an issue in **this repository**:
 
-- 🐛 **Report a bug:** <https://github.com/openkoutsi/openkoutsi/issues/new> — describe what
-  you did, what you expected, and what actually happened. Include steps to reproduce and any
-  relevant logs or screenshots.
+- 🐛 **Report a bug:** [open a bug report](https://github.com/openkoutsi/openkoutsi/issues/new?template=bug_report.md)
+  using the template — describe what you did, what you expected, and what actually happened.
+  Include steps to reproduce and any relevant logs or screenshots.
 - 💡 **Request a feature:** <https://github.com/openkoutsi/openkoutsi/issues/new> — describe
   the use case and what you'd like to see.
 
