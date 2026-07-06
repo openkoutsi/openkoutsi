@@ -36,6 +36,7 @@ openkoutsi is split across a few repositories:
 | [**openkoutsi**](https://github.com/openkoutsi/openkoutsi) (this repo) | Project planning and the user-facing issue tracker — report bugs and request features here. |
 | [**openkoutsi-backend**](https://github.com/openkoutsi/openkoutsi-backend) | The backend: FastAPI API, the Strava/Wahoo webhook **bridge services**, and the pure-Python `openkoutsi` **core library** (FIT parsing, training math, plan building). |
 | [**openkoutsi-web**](https://github.com/openkoutsi/openkoutsi-web) | The web frontend — a Next.js 15 (App Router) app in TypeScript with Tailwind CSS and Recharts. |
+| [**openkoutsi-landing-page**](https://github.com/openkoutsi/openkoutsi-landing-page) | The landing page - plain HTML. |
 | [**openkoutsi-ops**](https://github.com/openkoutsi/openkoutsi-ops) | Infrastructure-as-code and deployment configuration — a containerized, poll-based deployment that is fully rebuildable from code. |
 | [**openkoutsi-docs**](https://github.com/openkoutsi/openkoutsi-docs) | Source for the **user guide** (MkDocs + Material), published to GitHub Pages. |
 | [**openkoutsi-arch**](https://github.com/openkoutsi/openkoutsi-arch) | Source for the **architecture reference** (MkDocs + Material), published to GitHub Pages. |
