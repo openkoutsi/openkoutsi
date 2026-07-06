@@ -10,7 +10,8 @@ coaching feedback — all on a server you control.
 
 ### ➡️ **[koutsi.dev](https://koutsi.dev)** ⬅️
 
-The platform is live at **<https://koutsi.dev>**.
+The platform is live at **<https://koutsi.dev>** — that's the landing page; the web app itself
+runs at **<https://app.koutsi.dev>**.
 
 ## Why
 
