@@ -1,7 +1,7 @@
 # openkoutsi
 
 A **self-hosted cycling coaching platform**. Upload FIT files or sync from Strava/Wahoo,
-track fitness metrics (CTL/ATL/TSB), build periodized training plans, and get optional AI
+track fitness metrics (fitness/fatigue/form), build periodized training plans, and get optional AI
 coaching feedback — all on a server you control.
 
 > **koutsi** (κουτσί) — Finnish for "coach"
