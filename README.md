@@ -1,7 +1,8 @@
 # openkoutsi
 
-A **self-hosted cycling coaching platform**. Upload FIT files or sync from Strava/Wahoo,
-track fitness metrics (fitness/fatigue/form), build periodized training plans, and get optional AI
+A **self-hosted cycling coaching platform**. Import your training history — a Strava bulk
+export, or any pile of FIT/GPX/TCX files — sync new rides from Strava/Wahoo, track fitness
+metrics (fitness/fatigue/form), build periodized training plans, and get optional AI
 coaching feedback — all on a server you control.
 
 > **koutsi** (κουτσί) — Finnish for "coach"
@@ -34,7 +35,7 @@ openkoutsi is split across a few repositories:
 | Repository | What it contains |
 |---|---|
 | [**openkoutsi**](https://github.com/openkoutsi/openkoutsi) (this repo) | Project planning and the user-facing issue tracker — report bugs and request features here. |
-| [**openkoutsi-backend**](https://github.com/openkoutsi/openkoutsi-backend) | The backend: FastAPI API, the Strava/Wahoo webhook **bridge services**, and the pure-Python `openkoutsi` **core library** (FIT parsing, training math, plan building). |
+| [**openkoutsi-backend**](https://github.com/openkoutsi/openkoutsi-backend) | The backend: FastAPI API, the Strava/Wahoo webhook **bridge services**, and the pure-Python `openkoutsi` **core library** (FIT/GPX/TCX parsing, training math, plan building). |
 | [**openkoutsi-web**](https://github.com/openkoutsi/openkoutsi-web) | The web frontend — a Next.js 15 (App Router) app in TypeScript with Tailwind CSS and Recharts. |
 | [**openkoutsi-landing-page**](https://github.com/openkoutsi/openkoutsi-landing-page) | The landing page - plain HTML. |
 | [**openkoutsi-ops**](https://github.com/openkoutsi/openkoutsi-ops) | Infrastructure-as-code and deployment configuration — a containerized, poll-based deployment that is fully rebuildable from code. |
